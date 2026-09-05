@@ -1,0 +1,11 @@
+# Production deployment checklist
+- PostgreSQL database
+- Strong JWT_SECRET and admin password
+- Prisma migration/deploy
+- Vercel/AWS/Azure deployment
+- Custom domain, DNS and SSL
+- Cloudflare/CDN
+- GA4 + Search Console
+- CRM/email/storage integration
+- Lighthouse/PageSpeed verification
+- Backups, monitoring, rate limiting and security review
