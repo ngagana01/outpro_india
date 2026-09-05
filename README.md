@@ -1,4 +1,4 @@
-# Outpro.India Final Major Project
+# Outpro.India 
 
 Full-stack Next.js corporate platform foundation with responsive public website, Prisma database, lead capture API, admin authentication/dashboard, and CMS-ready models for services, projects, testimonials, team, blog, careers and partners.
 
