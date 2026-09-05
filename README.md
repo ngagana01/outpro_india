@@ -13,7 +13,6 @@ Full-stack Next.js corporate platform foundation with responsive public website,
 8. Run: `npm run dev`
 9. Visit http://localhost:3000
 
-Admin: http://localhost:3000/admin/login
-Default: admin@outpro.india / ChangeMe123!
+
 
 
